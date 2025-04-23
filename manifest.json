@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "SewTotallyPlush",
+		"description": "SewTotallyPlush Resource Pack",
+		"uuid": "b59412e8-94a9-00d0-10d8-b92b0bc3c6a3",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["SewTotalEye"],
+		"generated_with": {
+			"blockbench_item_wizard": ["1.2.0"]
+		}
+	},
+	"modules": [
+		{
+			"description": "SewTotallyPlush",
+			"type": "resources",
+			"uuid": "a1385ea8-edbf-19a2-acef-315ce68a2e99",
+			"version": [1, 0, 0]
+		}
+	]
+}

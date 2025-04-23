@@ -1,0 +1,32 @@
+{
+    "block_sounds": {
+        "plushie_sounds": {
+            "events": {
+                "break": {
+				"sound": "random.squeaky_toy",
+				"volume": 0.8,
+				"pitch": [
+					0.90,
+					1.0
+				]
+			},
+                "hit": {
+					"sound": "random.squeaky_toy",
+					"volume": 0.8,
+					"pitch": [
+						0.90,
+					1.0
+					]
+				},
+                "place": {
+					"sound": "random.squeaky_toy",
+					"volume": 0.8,
+					"pitch": [
+						0.90,
+					1.0
+					]
+				}
+            }
+        }
+    }
+}

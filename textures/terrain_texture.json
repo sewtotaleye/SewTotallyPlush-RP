@@ -1,0 +1,108 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "SewTotallyPlush",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+
+
+        "sewtotaleye_plushie_blue_bunny": {
+			"textures": "textures/blocks/plushies/bunnies/plushie_blue_bunny"
+		},
+		"sewtotaleye_plushie_black_bunny": {
+			"textures": "textures/blocks/plushies/bunnies/plushie_black_bunny"
+		},
+		"sewtotaleye_plushie_brown_bunny": {
+			"textures": "textures/blocks/plushies/bunnies/plushie_brown_bunny"
+		},
+		"sewtotaleye_plushie_gold_bunny": {
+			"textures": "textures/blocks/plushies/bunnies/plushie_gold_bunny"
+		},
+		"sewtotaleye_plushie_green_bunny": {
+			"textures": "textures/blocks/plushies/bunnies/plushie_green_bunny"
+		},
+		"sewtotaleye_plushie_pink_bunny": {
+			"textures": "textures/blocks/plushies/bunnies/plushie_pink_bunny"
+		},
+		"sewtotaleye_plushie_salt_pepper_bunny": {
+			"textures": "textures/blocks/plushies/bunnies/plushie_salt_pepper_bunny"
+		},
+		"sewtotaleye_plushie_toast_bunny": {
+			"textures": "textures/blocks/plushies/bunnies/plushie_toast_bunny"
+		},
+		"sewtotaleye_plushie_white_bunny": {
+			"textures": "textures/blocks/plushies/bunnies/plushie_white_bunny"
+		},
+		"sewtotaleye_plushie_yellow_bunny": {
+			"textures": "textures/blocks/plushies/bunnies/plushie_yellow_bunny"
+		},
+		"sewtotaleye_plushie_creeper": {
+			"textures": "textures/blocks/plushies/creepers/creeper"
+		},
+		"sewtotaleye_plushie_creeper_yellow": {
+			"textures": "textures/blocks/plushies/creepers/yellow_creeper"
+		},
+		"sewtotaleye_plushie_creeper_red": {
+			"textures": "textures/blocks/plushies/creepers/red_creeper"
+		},
+		"sewtotaleye_plushie_creeper_purple": {
+			"textures": "textures/blocks/plushies/creepers/purple_creeper"
+		},
+		"sewtotaleye_plushie_creeper_pink": {
+			"textures": "textures/blocks/plushies/creepers/pink_creeper"
+		},
+		"sewtotaleye_plushie_creeper_orange": {
+			"textures": "textures/blocks/plushies/creepers/orange_creeper"
+		},
+		"sewtotaleye_plushie_creeper_blue": {
+			"textures": "textures/blocks/plushies/creepers/blue_creeper"
+		},
+		"sewtotaleye_plushie_zombie": {
+			"textures": "textures/blocks/plushies/zombies/zombie"
+		},
+		"sewtotaleye_plushie_zombie_straw_hat": {
+			"textures": "textures/blocks/plushies/zombies/zombie_straw_hat"
+		},
+		"sewtotaleye_plushie_zombie_top_hat": {
+			"textures": "textures/blocks/plushies/zombies/zombie_black_hat"
+		},
+		"sewtotaleye_plushie_drowned": {
+			"textures": "textures/blocks/plushies/drowned/drowned"
+		},
+		"sewtotaleye_plushie_drowned_trident": {
+			"textures": "textures/blocks/plushies/drowned/drowned_trident"
+		},
+		"sewtotaleye_plushie_lava_drowned": {
+			"textures": "textures/blocks/plushies/drowned/lava_drowned"
+		},
+		"sewtotaleye_plushie_husk": {
+			"textures": "textures/blocks/plushies/husk/husk"
+		},
+		"sewtotaleye_plushie_husk_fancy": {
+			"textures": "textures/blocks/plushies/husk/husk_fancy"
+		},
+		"sewtotaleye_plushie_snow_golem": {
+			"textures": "textures/blocks/plushies/snowgolem/snow_golem"
+		},
+		"sewtotaleye_plushie_snow_golem_unsheared": {
+			"textures": "textures/blocks/plushies/snowgolem/snow_golem_unsheared"
+		},
+		"sewtotaleye_plushie_snow_golem_top_hat": {
+			"textures": "textures/blocks/plushies/snowgolem/snow_golem_top_hat"
+		},
+		"sewtotaleye_plushie_snow_golem_unsheared_top_hat": {
+			"textures": "textures/blocks/plushies/snowgolem/snow_golem_unsheared_tophat"
+		},
+		"sewtotaleye_plushie_iron_golem": {
+			"textures": "textures/blocks/plushies/irongolem/iron_golem"
+		},
+		"sewtotaleye_plushie_iron_golem_pink": {
+			"textures": "textures/blocks/plushies/irongolem/iron_golem_pink"
+		},
+		"sewtotaleye_plushie_iron_golem_red": {
+			"textures": "textures/blocks/plushies/irongolem/iron_golem_red"
+		}
+
+    }
+
+}
