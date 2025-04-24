@@ -2,7 +2,7 @@
 	"format_version": "1.10.0",
 	"minecraft:attachable": {
 		"description": {
-			"identifier": "sewtotaleye:plush_creeper_head_orange",
+			"identifier": "totallyplush:plush_creeper_head_orange",
 			"render_controllers": ["controller.render.armor"],
 			"materials": {
 				"default": "entity_alphatest",

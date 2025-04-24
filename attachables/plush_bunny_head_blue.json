@@ -2,7 +2,7 @@
 	"format_version": "1.10.0",
 	"minecraft:attachable": {
 		"description": {
-			"identifier": "sewtotaleye:plush_bunny_head_blue",
+			"identifier": "totallyplush:plush_bunny_head_blue",
 			"render_controllers": ["controller.render.armor"],
 			"materials": {
 				"default": "entity_alphatest",

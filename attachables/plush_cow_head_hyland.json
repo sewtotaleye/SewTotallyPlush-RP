@@ -1,0 +1,20 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:attachable": {
+		"description": {
+			"identifier": "totallyplush:plush_cow_head_highland",
+			"render_controllers": ["controller.render.armor"],
+			"materials": {
+				"default": "entity_alphatest",
+				"enchanted": "entity_alphatest_glint"
+			},
+			"textures": {
+				"default": "textures/entity/attachable/cows/highland_cow",
+				"enchanted": "textures/misc/enchanted_item_glint"
+			},
+			"geometry": {
+				"default": "geometry.shaggy_cow_head"
+			}
+		}
+	}
+}

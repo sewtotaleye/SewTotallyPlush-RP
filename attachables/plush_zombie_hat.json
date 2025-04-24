@@ -2,7 +2,7 @@
 	"format_version": "1.10.0",
 	"minecraft:attachable": {
 		"description": {
-			"identifier": "sewtotaleye:plush_zombie_head",
+			"identifier": "totallyplush:plush_zombie_head",
 			"render_controllers": ["controller.render.armor"],
 			"materials": {
 				"default": "entity_alphatest",

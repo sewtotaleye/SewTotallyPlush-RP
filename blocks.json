@@ -2,100 +2,142 @@
 	"format_version": "1.21.20",
 
 
-        "sewtotaleye:plushie_black_bunny": {
+        "totallyplush:plushie_black_bunny": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_blue_bunny": {
+        "totallyplush:plushie_blue_bunny": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_brown_bunny": {
+        "totallyplush:plushie_brown_bunny": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_gold_bunny": {
+        "totallyplush:plushie_gold_bunny": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_green_bunny": {
+        "totallyplush:plushie_green_bunny": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_pink_bunny": {
+        "totallyplush:plushie_pink_bunny": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_salt_pepper_bunny": {
+        "totallyplush:plushie_salt_pepper_bunny": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_toast_bunny": {
+        "totallyplush:plushie_toast_bunny": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_white_bunny": {
+        "totallyplush:plushie_white_bunny": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_yellow_bunny": {
+        "totallyplush:plushie_yellow_bunny": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_creeper": {
+        "totallyplush:plushie_creeper": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_creeper_pink": {
+        "totallyplush:plushie_creeper_pink": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_creeper_yellow": {
+        "totallyplush:plushie_creeper_yellow": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_creeper_red": {
+        "totallyplush:plushie_creeper_red": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_creeper_purple": {
+        "totallyplush:plushie_creeper_purple": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_creeper_orange": {
+        "totallyplush:plushie_creeper_orange": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_creeper_blue": {
+        "totallyplush:plushie_creeper_blue": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_zombie": {
+        "totallyplush:plushie_zombie": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_zombie_straw_hat": {
+        "totallyplush:plushie_zombie_straw_hat": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_zombie_top_hat": {
+        "totallyplush:plushie_zombie_top_hat": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_drowned": {
+        "totallyplush:plushie_drowned": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_drowned_trident": {
+        "totallyplush:plushie_drowned_trident": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_lava_drowned": {
+        "totallyplush:plushie_lava_drowned": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_husk": {
+        "totallyplush:plushie_husk": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_husk_fancy": {
+        "totallyplush:plushie_husk_fancy": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_snow_golem": {
+        "totallyplush:plushie_snow_golem": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_snow_golem_top_hat": {
+        "totallyplush:plushie_snow_golem_top_hat": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_snow_golem_unsheared_top_hat": {
+        "totallyplush:plushie_snow_golem_unsheared_top_hat": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_snow_golem_unsheared": {
+        "totallyplush:plushie_snow_golem_unsheared": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_iron_golem": {
+        "totallyplush:plushie_iron_golem": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_iron_golem_pink": {
+        "totallyplush:plushie_iron_golem_pink": {
             "sound": "plushie_sounds"
         },
-        "sewtotaleye:plushie_iron_golem_red": {
+        "totallyplush:plushie_iron_golem_red": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_cow_brown": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_cow_orange": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_cow_yellow": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_cow_orange_creme": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_cow_oreo": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_cow_green": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_cow_blue": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_cow_purple": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_cow_pink": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_cow_strawberry": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_cow_mooshroom": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_cow_brown_mooshroom": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_cow_zombie": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_cow_highland": {
             "sound": "plushie_sounds"
         }
 }

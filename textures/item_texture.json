@@ -1,98 +1,140 @@
 {
 	"texture_data": {
-		"sewtotaleye_plush_bunny_head_pink": {
+		"totallyplush_plush_bunny_head_pink": {
 			"textures": "textures/items/plush_bunny_head_pink.png"
 		},
-		"sewtotaleye_plush_bunny_head_black": {
+		"totallyplush_plush_bunny_head_black": {
 			"textures": "textures/items/plush_bunny_head_black.png"
 		},
-		"sewtotaleye_plush_bunny_head_brown": {
+		"totallyplush_plush_bunny_head_brown": {
 			"textures": "textures/items/plush_bunny_head_brown.png"
 		},
-		"sewtotaleye_plush_bunny_head_blue": {
+		"totallyplush_plush_bunny_head_blue": {
 			"textures": "textures/items/plush_bunny_head_blue.png"
 		},
-		"sewtotaleye_plush_bunny_head_green": {
+		"totallyplush_plush_bunny_head_green": {
 			"textures": "textures/items/plush_bunny_head_green.png"
 		},
-		"sewtotaleye_plush_bunny_head_gold": {
+		"totallyplush_plush_bunny_head_gold": {
 			"textures": "textures/items/plush_bunny_head_gold.png"
 		},
-		"sewtotaleye_plush_bunny_head_toast": {
+		"totallyplush_plush_bunny_head_toast": {
 			"textures": "textures/items/plush_bunny_head_toast.png"
 		},
-		"sewtotaleye_plush_bunny_head_white": {
+		"totallyplush_plush_bunny_head_white": {
 			"textures": "textures/items/plush_bunny_head_white.png"
 		},
 		
-		"sewtotaleye_plush_bunny_head_salt_pepper": {
+		"totallyplush_plush_bunny_head_salt_pepper": {
 			"textures": "textures/items/plush_bunny_head_salt_pepper.png"
 		},
-		"sewtotaleye_plush_bunny_head_yellow": {
+		"totallyplush_plush_bunny_head_yellow": {
 			"textures": "textures/items/plush_bunny_head_yellow.png"
 		},
-		"sewtotaleye_plush_creeper_head": {
+		"totallyplush_plush_creeper_head": {
 			"textures": "textures/items/creeper"
 		},
-		"sewtotaleye_plush_creeper_head_yellow": {
+		"totallyplush_plush_creeper_head_yellow": {
 			"textures": "textures/items/yellow_creeper"
 		},
-		"sewtotaleye_plush_creeper_head_red": {
+		"totallyplush_plush_creeper_head_red": {
 			"textures": "textures/items/red_creeper"
 		},
-		"sewtotaleye_plush_creeper_head_purple": {
+		"totallyplush_plush_creeper_head_purple": {
 			"textures": "textures/items/purple_creeper"
 		},
-		"sewtotaleye_plush_creeper_head_pink": {
+		"totallyplush_plush_creeper_head_pink": {
 			"textures": "textures/items/pink_creeper"
 		},
-		"sewtotaleye_plush_creeper_head_orange": {
+		"totallyplush_plush_creeper_head_orange": {
 			"textures": "textures/items/orange_creeper"
 		},
-		"sewtotaleye_plush_creeper_head_blue": {
+		"totallyplush_plush_creeper_head_blue": {
 			"textures": "textures/items/blue_creeper"
 		},
-		"sewtotaleye_plush_zombie_head": {
+		"totallyplush_plush_zombie_head": {
 			"textures": "textures/items/zombie"
 		},
-		"sewtotaleye_plush_zombie_head_top_hat": {
+		"totallyplush_plush_zombie_head_top_hat": {
 			"textures": "textures/items/zombie_top_hat"
 		},
-		"sewtotaleye_plush_zombie_head_straw_hat": {
+		"totallyplush_plush_zombie_head_straw_hat": {
 			"textures": "textures/items/zombie_straw_hat"
 		},
-		"sewtotaleye_plush_drowned_head": {
+		"totallyplush_plush_drowned_head": {
 			"textures": "textures/items/drowned"
 		},
-		"sewtotaleye_plush_lava_drowned_head": {
+		"totallyplush_plush_lava_drowned_head": {
 			"textures": "textures/items/lava_drowned"
 		},
-		"sewtotaleye_plush_husk_head": {
+		"totallyplush_plush_husk_head": {
 			"textures": "textures/items/husk"
 		},
-		"sewtotaleye_plush_husk_fancy_head": {
+		"totallyplush_plush_husk_fancy_head": {
 			"textures": "textures/items/husk_fancy"
 		},
-		"sewtotaleye_plush_snow_golem_head": {
+		"totallyplush_plush_snow_golem_head": {
 			"textures": "textures/items/snow_golem"
 		},
-		"sewtotaleye_plush_snow_golem_top_hat_head": {
+		"totallyplush_plush_snow_golem_top_hat_head": {
 			"textures": "textures/items/snow_golem_top_hat"
 		},
-		"sewtotaleye_plush_snow_golem_unsheared_head": {
+		"totallyplush_plush_snow_golem_unsheared_head": {
 			"textures": "textures/items/snow_golem_unsheared"
 		},
-		"sewtotaleye_plush_snow_golem_unsheared_top_hat_head": {
+		"totallyplush_plush_snow_golem_unsheared_top_hat_head": {
 			"textures": "textures/items/snow_golem_unsheared_top_hat"
 		},
-		"sewtotaleye_plush_iron_golem_head": {
+		"totallyplush_plush_iron_golem_head": {
 			"textures": "textures/items/iron_golem"
 		},
-		"sewtotaleye_plush_iron_golem_pink_head": {
+		"totallyplush_plush_iron_golem_pink_head": {
 			"textures": "textures/items/iron_golem_pink"
 		},
-		"sewtotaleye_plush_iron_golem_red_head": {
+		"totallyplush_plush_iron_golem_red_head": {
 			"textures": "textures/items/iron_golem_red"
+		},
+		"totallyplush_plush_cow_head_blue": {
+			"textures": "textures/items/blue_cow"
+		},
+		"totallyplush_plush_cow_head_brown": {
+			"textures": "textures/items/brown_cow"
+		},
+		"totallyplush_plush_cow_head_brownshroom": {
+			"textures": "textures/items/brownshroom_cow"
+		},
+		"totallyplush_plush_cow_head_green": {
+			"textures": "textures/items/green_cow"
+		},
+		"totallyplush_plush_cow_head_highland": {
+			"textures": "textures/items/highland_cow"
+		},
+		"totallyplush_plush_cow_head_mooshroom": {
+			"textures": "textures/items/mooshroom_cow"
+		},
+		"totallyplush_plush_cow_head_orange": {
+			"textures": "textures/items/orange_cow"
+		},
+		"totallyplush_plush_cow_head_orange_creme": {
+			"textures": "textures/items/orange_creme_cow"
+		},
+		"totallyplush_plush_cow_head_oreo": {
+			"textures": "textures/items/oreo_cow"
+		},
+		"totallyplush_plush_cow_head_pink": {
+			"textures": "textures/items/pink_cow"
+		},
+		"totallyplush_plush_cow_head_purple": {
+			"textures": "textures/items/purple_cow"
+		},
+		"totallyplush_plush_cow_head_strawberry": {
+			"textures": "textures/items/strawberry_cow"
+		},
+		"totallyplush_plush_cow_head_yellow": {
+			"textures": "textures/items/yellow_cow"
+		},
+		"totallyplush_plush_cow_head_zombie": {
+			"textures": "textures/items/zombie_cow"
 		}
 	}
 }
