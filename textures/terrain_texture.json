@@ -143,7 +143,53 @@
 		},
 		"totallyplush_plushie_cow_zombie": {
 			"textures": "textures/blocks/plushies/cows/zombie_cow"
+		},
+		"totallyplush_plushie_muddy_pig": {
+			"textures": "textures/blocks/plushies/pig/muddy_pig"
+		},
+		"totallyplush_plushie_brown_pig": {
+			"textures": "textures/blocks/plushies/pig/brown_pig"
+		},
+		"totallyplush_plushie_dark_pig": {
+			"textures": "textures/blocks/plushies/pig/dark_pig"
+		},
+		"totallyplush_plushie_zombie_pig": {
+			"textures": "textures/blocks/plushies/pig/zombie_pig"
+		},
+		"totallyplush_plushie_pig": {
+			"textures": "textures/blocks/plushies/pig/pig"
+		},
+		"totallyplush_plushie_purple_pig": {
+			"textures": "textures/blocks/plushies/pig/purple_pig"
+		},
+		"totallyplush_plushie_enderman": {
+			"textures": "textures/blocks/plushies/other/enderman_plushie"
+		},
+		"totallyplush_plushie_enderman_hat": {
+			"textures": "textures/blocks/plushies/other/enderman_umbrella_plushie"
+		},
+		"totallyplush_plushie_hoglin": {
+			"textures": "textures/blocks/plushies/nether/hoglin"
+		},
+		"totallyplush_plushie_zoglin": {
+			"textures": "textures/blocks/plushies/nether/zoglin"
+		},
+		"totallyplush_plushie_piglin": {
+			"textures": "textures/blocks/plushies/nether/piglin"
+		},
+		"totallyplush_plushie_piglin_hat": {
+			"textures": "textures/blocks/plushies/nether/piglin_with_hat"
+		},
+		"totallyplush_plushie_zombie_piglin": {
+			"textures": "textures/blocks/plushies/nether/zombie_piglin"
+		},
+		"totallyplush_plushie_zombie_piglin_hat": {
+			"textures": "textures/blocks/plushies/nether/zombie_piglin_with_hat"
+		},
+		"totallyplush_plushie_vessel": {
+			"textures": "textures/blocks/plushies/vessel_plushie"
 		}
+
 
     }
 

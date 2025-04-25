@@ -139,5 +139,50 @@
         },
         "totallyplush:plushie_cow_highland": {
             "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_muddy_pig": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_brown_pig": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_dark_pig": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_purple_pig": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_zombie_pig": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_pig": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_enderman": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_enderman_hat": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_piglin": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_piglin_hat": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_zombie_piglin": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_zombie_piglin_hat": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_zoglin": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_hoglin": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_vessel": {
+            "sound": "plushie_sounds"
         }
 }

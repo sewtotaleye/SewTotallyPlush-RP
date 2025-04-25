@@ -135,6 +135,25 @@
 		},
 		"totallyplush_plush_cow_head_zombie": {
 			"textures": "textures/items/zombie_cow"
+		},
+		"totallyplush_plush_pig_head": {
+			"textures": "textures/items/pig"
+		},
+		"totallyplush_plush_muddy_pig_head": {
+			"textures": "textures/items/muddy_pig"
+		},
+		"totallyplush_plush_zombie_pig_head": {
+			"textures": "textures/items/zombie_pig"
+		},
+		"totallyplush_plush_purple_pig_head": {
+			"textures": "textures/items/purple_pig"
+		},
+		"totallyplush_plush_brown_pig_head": {
+			"textures": "textures/items/brown_pig"
+		},
+		"totallyplush_plush_dark_pig_head": {
+			"textures": "textures/items/dark_pig"
 		}
+
 	}
 }
