@@ -184,5 +184,41 @@
         },
         "totallyplush:plushie_vessel": {
             "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_bee": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_rainbow_bee": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_firefly": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_dragonfly": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_princess_leia": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_han_solo": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_chewbacca": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_sewtotaleye": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_thedcro": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_lionsgirl269981": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_glamazon518": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_snowhuntsman": {
+            "sound": "plushie_sounds"
         }
 }

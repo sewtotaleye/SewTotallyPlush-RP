@@ -1,5 +1,6 @@
 {
 	"texture_data": {
+		
 		"totallyplush_plush_bunny_head_pink": {
 			"textures": "textures/items/plush_bunny_head_pink.png"
 		},
@@ -24,7 +25,6 @@
 		"totallyplush_plush_bunny_head_white": {
 			"textures": "textures/items/plush_bunny_head_white.png"
 		},
-		
 		"totallyplush_plush_bunny_head_salt_pepper": {
 			"textures": "textures/items/plush_bunny_head_salt_pepper.png"
 		},
@@ -153,7 +153,42 @@
 		},
 		"totallyplush_plush_dark_pig_head": {
 			"textures": "textures/items/dark_pig"
+		},
+		"totallyplush_plush_bee_head": {
+			"textures": "textures/items/bee"
+		},
+		"totallyplush_plush_rainbow_bee_head": {
+			"textures": "textures/items/rainbow_bee"
+		},
+		"totallyplush_plush_firefly_head": {
+			"textures": "textures/items/firefly"
+		},
+		"totallyplush_plush_dragonfly_head": {
+			"textures": "textures/items/dragonfly"
+		},
+		"totallyplush_plush_leia_head": {
+			"textures": "textures/items/princess_leia"
+		},
+		"totallyplush_han_solos_vest": {
+			"textures": "textures/items/han_solos_vest"
+		},
+		"totallyplush_plush_chewbacca_head": {
+			"textures": "textures/items/chewbacca"
+		},
+		"totallyplush_plush_sewtotaleye_head": {
+			"textures": "textures/blocks/plushies/sew"
+		},
+		"totallyplush_plush_lionsgirl269981_head": {
+			"textures": "textures/blocks/plushies/lg"
+		},
+		"totallyplush_plush_thedcro_head": {
+			"textures": "textures/blocks/plushies/dale"
+		},
+		"totallyplush_plush_snowhuntsman_head": {
+			"textures": "textures/blocks/plushies/hunter"
+		},
+		"totallyplush_plush_glamazon518_head": {
+			"textures": "textures/blocks/plushies/glam"
 		}
-
 	}
 }

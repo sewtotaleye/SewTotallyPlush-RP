@@ -188,6 +188,42 @@
 		},
 		"totallyplush_plushie_vessel": {
 			"textures": "textures/blocks/plushies/vessel_plushie"
+		},
+		"totallyplush_plushie_bee": {
+			"textures": "textures/blocks/plushies/bees/bee"
+		},
+		"totallyplush_plushie_rainbow_bee": {
+			"textures": "textures/blocks/plushies/bees/rainbow_bee"
+		},
+		"totallyplush_plushie_firefly": {
+			"textures": "textures/blocks/plushies/firefly"
+		},
+		"totallyplush_plushie_dragonfly": {
+			"textures": "textures/blocks/plushies/dragonfly"
+		},
+		"totallyplush_plushie_princess_leia": {
+			"textures": "textures/blocks/plushies/mine_wars/princess_leia"
+		},
+		"totallyplush_plushie_han_solo": {
+			"textures": "textures/blocks/plushies/mine_wars/han_solo"
+		},
+		"totallyplush_plushie_chewbacca": {
+			"textures": "textures/blocks/plushies/mine_wars/chewbacca"
+		},
+		"totallyplush_plushie_glamazon518": {
+			"textures": "textures/blocks/plushies/glam"
+		},
+		"totallyplush_plushie_lionsgirl269981": {
+			"textures": "textures/blocks/plushies/lg"
+		},
+		"totallyplush_plushie_thedcro": {
+			"textures": "textures/blocks/plushies/dale"
+		},
+		"totallyplush_plushie_snowhuntsman": {
+			"textures": "textures/blocks/plushies/hunter"
+		},
+		"totallyplush_plushie_sewtotaleye": {
+			"textures": "textures/blocks/plushies/sew"
 		}
 
 

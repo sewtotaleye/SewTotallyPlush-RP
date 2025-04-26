@@ -1,0 +1,66 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.snowhuntsman_head",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "root_item",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "helmet",
+					"parent": "root_item",
+					"pivot": [0, 0, 0],
+					"binding": "'head'",
+					"cubes": [
+						{
+							"origin": [-4, 0, -4],
+							"size": [8, 8, 8],
+							"inflate": 1,
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [10, 10]},
+								"east": {"uv": [0, 10], "uv_size": [10, 10]},
+								"south": {"uv": [10, 0], "uv_size": [10, 10]},
+								"west": {"uv": [10, 10], "uv_size": [10, 10]},
+								"up": {"uv": [0, 20], "uv_size": [10, 10]},
+								"down": {"uv": [1, 39], "uv_size": [8, -8]}
+							}
+						},
+						{
+							"origin": [-5.1, -2.9, -5.1],
+							"size": [10.2, 6, 10.2],
+							"uv": {
+								"north": {"uv": [26, 32], "uv_size": [10, 6]},
+								"east": {"uv": [36, 32], "uv_size": [10, 6]},
+								"south": {"uv": [20, 24], "uv_size": [10, 6]},
+								"west": {"uv": [38, 6], "uv_size": [10, 6]},
+								"up": {"uv": [20, 10], "uv_size": [10, 10]},
+								"down": {"uv": [52, 37], "uv_size": [10, -10]}
+							}
+						},
+						{
+							"origin": [-4.9, 8.5, -5.1],
+							"size": [9.8, 4, 0.3],
+							"uv": {
+								"north": {"uv": [10, 38], "uv_size": [10, 4]},
+								"east": {"uv": [56, 9], "uv_size": [0.5, 4]},
+								"south": {"uv": [38, 18], "uv_size": [10, 4]},
+								"west": {"uv": [53, 9], "uv_size": [0.5, 4]},
+								"up": {"uv": [48, 4], "uv_size": [10, 0.5]},
+								"down": {"uv": [47, 2.5], "uv_size": [10, -0.5]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}
