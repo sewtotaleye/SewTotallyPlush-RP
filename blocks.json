@@ -220,5 +220,44 @@
         },
         "totallyplush:plushie_snowhuntsman": {
             "sound": "plushie_sounds"
+        },
+        "totallyplush:plush_black_bunny_head_block": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plush_blue_bunny_head_block": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plush_brown_bunny_head_block": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plush_gold_bunny_head_block": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plush_green_bunny_head_block": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plush_pink_bunny_head_block": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plush_salt_pepper_bunny_head_block": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plush_toast_bunny_head_block": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plush_white_bunny_head_block": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plush_yellow_bunny_head_block": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:plushie_cooper": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:party_pickle": {
+            "sound": "plushie_sounds"
+        },
+        "totallyplush:puny_party_pickle": {
+            "sound": "plushie_sounds"
         }
 }

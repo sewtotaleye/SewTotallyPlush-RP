@@ -1,6 +1,8 @@
 {
 	"texture_data": {
-		
+		"totallyplush_chainsaw": {
+			"textures": "textures/items/chainsaw.png"
+		},
 		"totallyplush_plush_bunny_head_pink": {
 			"textures": "textures/items/plush_bunny_head_pink.png"
 		},
@@ -176,19 +178,19 @@
 			"textures": "textures/items/chewbacca"
 		},
 		"totallyplush_plush_sewtotaleye_head": {
-			"textures": "textures/blocks/plushies/sew"
+			"textures": "textures/items/sew"
 		},
 		"totallyplush_plush_lionsgirl269981_head": {
-			"textures": "textures/blocks/plushies/lg"
+			"textures": "textures/items/lg"
 		},
 		"totallyplush_plush_thedcro_head": {
-			"textures": "textures/blocks/plushies/dale"
+			"textures": "textures/items/dale"
 		},
 		"totallyplush_plush_snowhuntsman_head": {
-			"textures": "textures/blocks/plushies/hunter"
+			"textures": "textures/items/hunter"
 		},
 		"totallyplush_plush_glamazon518_head": {
-			"textures": "textures/blocks/plushies/glam"
+			"textures": "textures/items/glam"
 		}
 	}
 }

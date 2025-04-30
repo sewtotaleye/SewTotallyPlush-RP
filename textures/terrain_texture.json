@@ -224,6 +224,45 @@
 		},
 		"totallyplush_plushie_sewtotaleye": {
 			"textures": "textures/blocks/plushies/sew"
+		},
+		"totallyplush_plush_black_bunny_head_block": {
+			"textures": "textures/entity/attachable/bunnies/plush_bunny_head_black"
+		},
+		"totallyplush_plush_blue_bunny_head_block": {
+			"textures": "textures/entity/attachable/bunnies/plush_bunny_head_blue"
+		},
+		"totallyplush_plush_brown_bunny_head_block": {
+			"textures": "textures/entity/attachable/bunnies/plush_bunny_head_brown"
+		},
+		"totallyplush_plush_gold_bunny_head_block": {
+			"textures": "textures/entity/attachable/bunnies/plush_bunny_head_gold"
+		},
+		"totallyplush_plush_green_bunny_head_block": {
+			"textures": "textures/entity/attachable/bunnies/plush_bunny_head_green"
+		},
+		"totallyplush_plush_pink_bunny_head_block": {
+			"textures": "textures/entity/attachable/bunnies/plush_bunny_head_pink"
+		},
+		"totallyplush_plush_salt_pepper_bunny_head_block": {
+			"textures": "textures/entity/attachable/bunnies/plush_bunny_head_salt_pepper"
+		},
+		"totallyplush_plush_toast_bunny_head_block": {
+			"textures": "textures/entity/attachable/bunnies/plush_bunny_head_toast"
+		},
+		"totallyplush_plush_white_bunny_head_block": {
+			"textures": "textures/entity/attachable/bunnies/plush_bunny_head_white"
+		},
+		"totallyplush_plush_yellow_bunny_head_block": {
+			"textures": "textures/entity/attachable/bunnies/plush_bunny_head_yellow"
+		},
+		"totallyplush_plushie_cooper": {
+			"textures": "textures/blocks/plushies/cooper"
+		},
+		"totallyplush_party_pickle": {
+			"textures": "textures/blocks/party_pickle"
+		},
+		"totallyplush_party_pickle_small": {
+			"textures": "textures/blocks/party_pickle"
 		}
 
 

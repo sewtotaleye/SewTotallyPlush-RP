@@ -1,0 +1,30 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.chainsaw.first_person_hold": {
+			"loop": true,
+			"animation_length": 2.1667,
+			"bones": {
+				"root_item": {
+					"rotation": {
+						"0.0": [66, 60, -60],
+						"0.5417": [67.62881, 57.70163, -58.09723],
+						"1.0": [69.02606, 55.37813, -56.42278],
+						"1.5417": [67.62881, 57.70163, -58.09723],
+						"2.1667": [67.02201, 58.56374, -58.80704]
+					},
+					"position": [3, 24, 4]
+				}
+			}
+		},
+		"animation.chainsaw.third_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [90, 0, 0],
+					"position": [0.5, 22.5, -0.5]
+				}
+			}
+		}
+	}
+}

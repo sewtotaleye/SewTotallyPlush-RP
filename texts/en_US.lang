@@ -1,5 +1,15 @@
 totallyplush:bunnies=Plushie Bunnies 
 totallyplush:heads=Plushie Heads 
 totallyplush:zombies=Plushie Zombies
+totallyplush:admin_plush=Plushie Admins
+totallyplush:mine_wars=Mine Wars 
+totallyplush:golems=Plushie Golems 
+totallyplush:nether=Plushie Nether 
+totallyplush:bugs=Plushie Bugs 
+totallyplush:end=Plushie Nether 
+totallyplush:creepers=Plushie Creeper 
+totallyplush:cows=Plushie Cows 
+totallyplush:pigs=Plushie Pigs
 
 item.totally_plush:han_solos_vest=Han Solos Vest
+item.totallyplush:chainsaw=Chainsaw
